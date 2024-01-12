@@ -103,7 +103,7 @@ Students earn points for Lox-based assignments based on the `gatorgrade` specifi
 
 #### Code golf
 
-On Fridays, students engage with a "code golf" challenge in which they are asked to deploy novel techniques using either a given or additionally novel
+On Fridays, students will engage with a "code golf" challenge in which asks them to deploy novel techniques using either a given or additionally novel
 programming language. In these challenges, students attempt to achieve a provided programming task in _as few bytes as possible_. Often, this leverages
 characteristics of programming languages which rely on their design and construction, demonstrating understanding of a wide variety of programming
 language design principles and/or paradigms.
@@ -113,7 +113,12 @@ students with the five lowest scores) receive 10% (100) extra credit points.
 
 #### Course project
 
+Students will complete a summative course project which offers two paths:
 
+* Students may choose to implement the Lox interpreter in a language other than Java
+* Students may choose to develop a "code golfing" language which solves the golfing challenges undertaking during the semester
+
+Students earn points for the course project assignment basd on the `gatorgrade` specifications-grading report.
 
 ### Course preparation
 
