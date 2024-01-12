@@ -81,9 +81,39 @@ This course relies on your regular use of:
 * [GitHub](https://github.com)
 * [Discord](https://discord.com)
 
-#### Evaluation
+### Evaluation
 
-##### Class participation
+The course relies on three main types of exercises:
+
+|Course assignment |Percentage weight |Course points |
+|:-----------------|:-----------------|:-------------|
+|Lox repository    |50%               |600 pts       |
+|Code golf         |10%               |100 pts       |
+|Course project    |40%               |400 pts       |
+|                  |                  |              |
+|                  |Total             |1000 pts      |
+
+#### Lox
+
+This course uses extra challenges in the [course's textbook](#course-resources) as the main mechanism for assessing student achievement of learning
+outcomes. The overwhelming majority of the implementation of the text's novel programming language, Lox, is provided in a single repository. Students
+take responsibility for maintaining, updating, and "hacking" on this respository, which serves as one of the main evaluative mechanism of the course.
+
+Students earn points for Lox-based assignments based on the `gatorgrade` specifications-grading report.
+
+#### Code golf
+
+On Fridays, students engage with a "code golf" challenge in which they are asked to deploy novel techniques using either a given or additionally novel
+programming language. In these challenges, students attempt to achieve a provided programming task in _as few bytes as possible_. Often, this leverages
+characteristics of programming languages which rely on their design and construction, demonstrating understanding of a wide variety of programming
+language design principles and/or paradigms.
+
+Students earn points for code golf challenges by completing challenges. At the end of the semester, students ranking in the top five (5) "golfers" (i.e.
+students with the five lowest scores) receive 10% (100) extra credit points.
+
+#### Course project
+
+
 
 ### Course preparation
 
