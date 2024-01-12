@@ -115,7 +115,7 @@ students with the five lowest scores) receive 10% (100) extra credit points.
 
 Students will complete a summative course project which offers two paths:
 
-* Students may choose to implement the Lox interpreter in a language other than Java
+* Students may choose to implement the Lox interpreter in a language other than Java which implements one additional feature not present in the current Lox implementation
 * Students may choose to develop a "code golfing" language which solves the golfing challenges undertaking during the semester
 
 Students earn points for the course project assignment basd on the `gatorgrade` specifications-grading report.
