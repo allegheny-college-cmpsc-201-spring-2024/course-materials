@@ -60,17 +60,22 @@ Students who successfully complete this requirement will demonstrate an understa
 
 ### Course learning objectives
 
-* Correctly identify and describe the steps in the design and implementation of a programming language. [`QR`, `SP`]
-* Effectively use programming language constructs to design correct, efficient, and well-tested programs in multiple programming languages, including but not limited to Java. [`QR`, `SP`]
-* Interpret and use an existing programming language grammar. [`QR`]
-* Design, implement, and evaluate a correct scanner and parser for a programming language. [`QR`, `SP`]
-* Using knowledge of the general principles of programming languages, correctly implement a computer program in a heretofore unknown programming language. [`QR`, `SP`]
+|Objective |Related Distribution Requirement(s) |
+|:---------|:-----------------------------------|
+|Correctly identify and describe the steps in the design and implementation of a programming language| `QR`, `SP` |
+|Effectively use programming language constructs to design correct, efficient, and well-tested programs in multiple programming languages, including but not limited to Java.| `QR`, `SP` |
+|Interpret and use an existing programming language grammar.| `QR` |
+|Design, implement, and evaluate a correct scanner and parser for a programming language.| `QR`, `SP` |
+|Using knowledge of the general principles of programming languages, correctly implement a computer program in a heretofore unknown programming language. | `QR`, `SP` |
+
+Each of these course learning outcomes support the Allegheny College CIS Department and Software Engineering program learning outcomes which are available
+on the [CIS Department's website](https://cis.allegheny.edu).
 
 ### Required materials
 
 #### Course resources
 
-This courses uses a free open access textbook, readable at:
+This courses uses a free open access textbook, available at the following URL:
 
 * [_Crafting Interpreters_](https://craftinginterpreters.com/contents.html)
 
@@ -80,6 +85,8 @@ This course relies on your regular use of:
 
 * [GitHub](https://github.com)
 * [Discord](https://discord.com)
+
+These two platforms constitute the main channels for class communication and issuing, working on, and evaluating assignments.
 
 ### Evaluation
 
@@ -91,7 +98,7 @@ The course relies on three main types of exercises:
 |Code golf         |10%               |100 pts       |
 |Course project    |40%               |400 pts       |
 |                  |                  |              |
-|                  |Total             |1000 pts      |
+|Total             |100%              |1000 pts      |
 
 #### Lox
 
@@ -103,7 +110,7 @@ Students earn points for Lox-based assignments based on the `gatorgrade` specifi
 
 #### Code golf
 
-On Fridays, students will engage with a "code golf" challenge in which asks them to deploy novel techniques using either a given or additionally novel
+On Fridays, students will engage with a "code golf" challenge in which asks them to deploy novel techniques using either a given or student-chosen novel
 programming language. In these challenges, students attempt to achieve a provided programming task in _as few bytes as possible_. Often, this leverages
 characteristics of programming languages which rely on their design and construction, demonstrating understanding of a wide variety of programming
 language design principles and/or paradigms.
@@ -159,7 +166,7 @@ One of the goals of your time in this class, much less at Allegheny, is to learn
 * be prepared to explain a detailed understanding of the code you're offering for review, documenting where and how you used an assistant tool in:
   * technical reports
   * code comments, specifically labeling the portions of code derived from use of AI tools
-* consider how you might improve an assitant-generated solution, documenting this in reports and implementing your improvements in code
+* consider how you might improve an assistant-generated solution, documenting this in reports and implementing your improvements in code
 * keep an operating assumption that I'm not reviewing your solutions for a "gotcha"; I only assume the best of your effort
 
 ### Classroom ethics
