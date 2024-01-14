@@ -160,7 +160,7 @@ The above statement, of course, also applies to solutions derived from discussio
 
 I fully expect that many of you will use tools like OpenAI's GPT code completion, GitHub Co-pilot, and others on assignments. These are professional, industry-grade tools. However, there is a marked difference between implementing the solutions these tools suggest and copying their suggestions wholesale. In many cases, these tools will lead you to either incorrect or significantly advanced answers. As one might say in the consumer trade, _caveat emptor_.
 
-One of the goals of your time in this class, much less at Allegheny, is to learn how the subjects discussed in classes relate and impact your future work. While there are many ways that your assignments will test your understanding of the concepts underlying our coursework,I ask a few of things from you, completely aware that you are fully on your own honor with any of these:
+One of the goals of your time in this class, much less at Allegheny, is to learn how the subjects discussed in classes relate and impact your future work. While there are many ways that your assignments will test your understanding of the concepts underlying our coursework, I ask a few of things from you completely aware that you are fully on your own honor with any of these:
 
 * be prepared to explain a detailed understanding of the code you're offering for review, documenting where and how you used an assistant tool in:
   * technical reports
