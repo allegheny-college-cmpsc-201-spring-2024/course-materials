@@ -105,6 +105,8 @@ This course uses extra challenges in the [course's textbook](#course-resources) 
 outcomes. The overwhelming majority of the implementation of the text's novel programming language, Lox, is provided in a single repository. Students
 take responsibility for maintaining, updating, and "hacking" on this respository, which serves as one of the main evaluative mechanism of the course.
 
+For the purposes of this course, these challenges are _required_ and not _extra_.
+
 Students earn points for Lox-based assignments based on the `gatorgrade` specifications-grading report.
 
 #### Code golf
