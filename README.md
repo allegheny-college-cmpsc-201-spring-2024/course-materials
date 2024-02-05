@@ -97,7 +97,7 @@ The course relies on three main types of exercises:
 
 |Course assignment |Percentage weight |Course points |
 |:-----------------|:-----------------|:-------------|
-|Lox repository    |50%               |600 pts       |
+|Lox repository    |50%               |500 pts       |
 |Code golf         |10%               |100 pts       |
 |Course project    |40%               |400 pts       |
 |**Total**             |**100%**              |**1000 pts**      |
