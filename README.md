@@ -63,13 +63,13 @@ Students who successfully complete this requirement will demonstrate an understa
 
 ### Course learning objectives
 
-|Objective |Related Distribution Requirement(s) |
+|Distribution Requirement| Learning Objective   |
 |:---------|:-----------------------------------|
-|Correctly identify and describe the steps in the design and implementation of a programming language| `QR`, `SP` |
-|Effectively use programming language constructs to design correct, efficient, and well-tested programs in multiple programming languages, including but not limited to Java.| `QR`, `SP` |
-|Interpret and use an existing programming language grammar.| `QR` |
-|Design, implement, and evaluate a correct scanner and parser for a programming language.| `QR`, `SP` |
-|Using knowledge of the general principles of programming languages, correctly implement a computer program in a heretofore unknown programming language. | `QR`, `SP` |
+|`QR`, `SP`|Correctly identify and describe the steps in the design and implementation of a programming language|
+|`QR`, `SP`|Effectively use programming language constructs to design correct, efficient, and well-tested programs in multiple programming languages, including but not limited to Java.|
+|`QR`|Interpret and use an existing programming language grammar.|
+|`QR`, `SP`|Design, implement, and evaluate a correct scanner and parser for a programming language.|
+|`QR`, `SP`|Using knowledge of the general principles of programming languages, correctly implement a computer program in a heretofore unknown programming language. |
 
 Each of these course learning outcomes support the Allegheny College CIS Department and Software Engineering program learning outcomes which are available
 on the [CIS Department's website](https://cis.allegheny.edu).
